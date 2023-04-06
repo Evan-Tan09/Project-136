@@ -1,0 +1,15 @@
+.btn-info {
+    width: 100%;
+}
+
+body {
+    background-size: cover;
+}
+
+h1{
+    color: #e0e0e0;
+}
+canvas{
+    background-color: black;
+    border-color: crimson;
+}
